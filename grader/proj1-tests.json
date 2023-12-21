@@ -1,0 +1,160 @@
+{
+    "name": "Project 1 Completeness Score",  
+    "total": 50, 
+    "items": [ 
+              {
+                "item": "Twitter Test - SimpleDone", 
+                "tests": [ {"name":"TestSimpleDone",
+                            "type": "test",  
+                            "dir": "proj1/twitter", 
+                            "points": 2, 
+                            "repeat": 5, 
+                            "total": 1
+                           }
+                         ] 
+              }, 
+              {
+                "item": "Twitter Test - SimpleWaitDone", 
+                "tests": [ {"name":"TestSimpleWaitDone",
+                            "type": "test",  
+                            "dir": "proj1/twitter", 
+                            "points": 2,
+                            "repeat": 5,  
+                            "total": 1
+                           }
+                         ] 
+              }, 
+              {
+                "item": "Twitter Test - AddRequests", 
+                "tests": [ {"name":"TestAddRequests",
+                            "type": "test",  
+                            "dir": "proj1/twitter", 
+                            "points": 3, 
+                            "repeat": 5, 
+                            "total": 1
+                           }
+                         ] 
+              }, 
+              {
+                "item": "Twitter Test - SimpleAddRequest", 
+                "tests": [ {"name":"TestSimpleAddRequest",
+                            "type": "test",  
+                            "dir": "proj1/twitter", 
+                            "points": 3, 
+                            "repeat": 5, 
+                            "total": 1
+                           }
+                         ] 
+              }, 
+              {
+                "item": "Twitter Test - ContainsRequest", 
+                "tests": [ {"name":"TestSimpleContainsRequest",
+                            "type": "test",  
+                            "dir": "proj1/twitter", 
+                            "points": 3, 
+                            "repeat": 5, 
+                            "total": 1
+                           }
+                         ] 
+              }, 
+              {
+                "item": "Twitter Test - AddWithContainsRequest", 
+                "tests": [ {"name":"TestAddWithContainsRequest",
+                            "type": "test",  
+                            "dir": "proj1/twitter", 
+                            "points": 3, 
+                            "repeat": 5, 
+                            "total": 1
+                           }
+                         ] 
+              }, 
+              {
+                "item": "Twitter Test - SimpleFeedRequest", 
+                "tests": [ {"name":"TestSimpleFeedRequest",
+                            "type": "test",  
+                            "dir": "proj1/twitter", 
+                            "points": 3, 
+                            "repeat": 5, 
+                            "total": 1
+                           }
+                         ] 
+              },
+              {
+                "item": "Twitter Test - SimpleAddAndFeedRequest", 
+                "tests": [ {"name":"TestSimpleAddAndFeedRequest",
+                            "type": "test",  
+                            "dir": "proj1/twitter", 
+                            "points": 3,
+                            "repeat": 5,  
+                            "total": 1
+                           }
+                         ] 
+              }, 
+              {
+                "item": "Twitter Test - SimpleRemoveRequest", 
+                "tests": [ {"name":"TestSimpleRemoveRequest",
+                            "type": "test",  
+                            "dir": "proj1/twitter", 
+                            "points": 3, 
+                            "repeat": 5, 
+                            "total": 1
+                           }
+                         ] 
+              }, 
+              {
+                "item": "Twitter Test - AllRequestsXtraSmall", 
+                "tests": [ {"name":"TestAllRequestsXtraSmall",
+                            "type": "test",  
+                            "dir": "proj1/twitter", 
+                            "points": 5, 
+                            "repeat": 5, 
+                            "total": 1
+                           }
+                         ] 
+              },
+              {
+                "item": "Twitter Test - AllRequestsSmall", 
+                "tests": [ {"name":"TestAllRequestsSmall",
+                            "type": "test",  
+                            "dir": "proj1/twitter", 
+                            "points": 5, 
+                            "repeat": 5, 
+                            "total": 1
+                           }
+                         ] 
+              }, 
+              {
+                "item": "Twitter Test - AllRequestsMedium", 
+                "tests": [ {"name":"TestAllRequestsMedium",
+                            "type": "test",  
+                            "dir": "proj1/twitter", 
+                            "points": 5, 
+                            "repeat": 5, 
+                            "total": 1
+                           }
+                         ] 
+              }, 
+              {
+                "item": "Twitter Test - AllRequestsLarge", 
+                "tests": [ {"name":"TestAllRequestsLarge",
+                            "type": "test",  
+                            "dir": "proj1/twitter", 
+                            "points": 5, 
+                            "repeat": 1, 
+                            "total": 1
+                           }
+                         ] 
+              }, 
+              {
+                "item": "Twitter Test - AllRequestsXtraLarge", 
+                "tests": [ {"name":"TestAllRequestsXtraLarge",
+                            "type": "test",  
+                            "dir": "proj1/twitter", 
+                            "points": 5, 
+                            "repeat": 1, 
+                            "total": 1
+                           }
+                         ] 
+              }
+            ]
+}                         
